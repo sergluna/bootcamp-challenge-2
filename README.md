@@ -6,7 +6,7 @@ The repository for Challenge s of my Web Development bootcamp. Here you will fin
 
 ## Deployed Application
 
-
+https://sergluna.github.io/bootcamp-challenge-2/
 
 ## Usage
 

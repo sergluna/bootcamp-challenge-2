@@ -16,3 +16,6 @@ To view my submission please review the index.html and style.css file. I have ad
 
 Please refer to the license in the repository.
 
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/111019074/197682125-be4a5a5f-14c0-46da-b85e-0b783454ee85.png)

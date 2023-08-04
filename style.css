@@ -15,15 +15,6 @@ body {
   background-attachment: fixed;
 }
 
-@media screen and (max-width: 400px) {
-  .work {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    width: auto;
-  }
-}
-
 .header {
   background-color: var(--background);
   padding: 20px;
@@ -87,6 +78,24 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
+}
+
+@media screen and (max-width: 800px) {
+  body {
+    background-image: -moz-linear-gradient(
+      rgb(151, 184, 213),
+      rgb(151, 207, 202)
+    );
+  }
+
+  .work {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project {
+    /* width: auto; */
+  }
 }
 
 .about-me {

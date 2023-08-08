@@ -1,0 +1,10 @@
+@media screen and (max-width: 800px) {
+  .work {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project {
+    width: fit-content;
+  }
+}

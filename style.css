@@ -7,9 +7,19 @@
 }
 
 body {
-  background-image: -moz-linear-gradient(
+  /* background-image: -moz-linear-gradient(
+    rgb(255, 129, 129),
     rgb(213, 151, 151),
-    rgb(151, 151, 207)
+    rgb(156, 130, 176),
+    rgb(151, 151, 207),
+    rgb(110, 172, 223),
+    rgb(72, 166, 234)
+  ); */
+  background: rgb(36, 72, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(36, 72, 255, 1) 0%,
+    rgba(255, 44, 87, 1) 100%
   );
   background-repeat: no-repeat;
   background-attachment: fixed;
